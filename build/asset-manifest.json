@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reactjs-Navbar/build/static/css/main.b0df6039.css",
-    "main.js": "/Reactjs-Navbar/build/static/js/main.136a0d8a.js",
-    "static/js/453.0ec81efe.chunk.js": "/Reactjs-Navbar/build/static/js/453.0ec81efe.chunk.js",
-    "index.html": "/Reactjs-Navbar/build/index.html",
-    "main.b0df6039.css.map": "/Reactjs-Navbar/build/static/css/main.b0df6039.css.map",
-    "main.136a0d8a.js.map": "/Reactjs-Navbar/build/static/js/main.136a0d8a.js.map",
-    "453.0ec81efe.chunk.js.map": "/Reactjs-Navbar/build/static/js/453.0ec81efe.chunk.js.map"
+    "main.css": "/static/css/main.b0df6039.css",
+    "main.js": "/static/js/main.e0921bed.js",
+    "static/js/453.0ec81efe.chunk.js": "/static/js/453.0ec81efe.chunk.js",
+    "index.html": "/index.html",
+    "main.b0df6039.css.map": "/static/css/main.b0df6039.css.map",
+    "main.e0921bed.js.map": "/static/js/main.e0921bed.js.map",
+    "453.0ec81efe.chunk.js.map": "/static/js/453.0ec81efe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0df6039.css",
-    "static/js/main.136a0d8a.js"
+    "static/js/main.e0921bed.js"
   ]
 }
