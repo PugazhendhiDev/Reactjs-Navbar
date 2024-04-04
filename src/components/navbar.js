@@ -112,6 +112,7 @@ function Navbar() {
         <div
           id="menu"
           className="mt-5 p-5 bg-white border-2 border-purple-500 rounded-2xl"
+          onClick={() => setNav(!nav)}
         >
           <ul className="font-bold ">
             <NavLink
