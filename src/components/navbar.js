@@ -7,9 +7,11 @@ function Navbar() {
   return (
     <header className="bg-purple-300 p-5 mb-4 rounded-2xl sticky top-0">
       <div className="flex">
-        <h1 className="my-auto font-bold text-[22px] lg:text-3xl uppercase pr-2 mr-2 border-r-2 border-purple-500 lg:pr-5 lg:mr-5">
-          NavBar
-        </h1>
+        <a href="/">
+          <h1 className="my-auto font-bold text-[22px] lg:text-3xl uppercase pr-2 mr-2 border-r-2 border-purple-500 lg:pr-5 lg:mr-5">
+            Navbar
+          </h1>
+        </a>
         <span className="my-auto mr-2 lg:hidden" onClick={() => setNav(!nav)}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -85,7 +87,10 @@ function Navbar() {
             </NavLink>
           </ul>
         </div>
-        <span className="my-auto ml-auto flex text-white font-bold bg-red-400 p-1 rounded lg:rounded-xl lg:px-5 lg:py-2">
+        <a
+          href="https://github.com/PugazhendhiDev/"
+          className="my-auto ml-auto flex text-white font-bold bg-red-400 p-1 rounded lg:rounded-xl lg:px-5 lg:py-2"
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
@@ -101,7 +106,7 @@ function Navbar() {
             />
           </svg>
           <h1 className="hidden uppercase ml-2 lg:block">Hire</h1>
-        </span>
+        </a>
       </div>
       {nav && (
         <div
