@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Reactjs-Navbar/build/static/css/main.b0df6039.css",
-    "main.js": "/Reactjs-Navbar/build/static/js/main.77ddd6a7.js",
+    "main.js": "/Reactjs-Navbar/build/static/js/main.2377af7e.js",
     "static/js/453.0ec81efe.chunk.js": "/Reactjs-Navbar/build/static/js/453.0ec81efe.chunk.js",
     "index.html": "/Reactjs-Navbar/build/index.html",
     "main.b0df6039.css.map": "/Reactjs-Navbar/build/static/css/main.b0df6039.css.map",
-    "main.77ddd6a7.js.map": "/Reactjs-Navbar/build/static/js/main.77ddd6a7.js.map",
+    "main.2377af7e.js.map": "/Reactjs-Navbar/build/static/js/main.2377af7e.js.map",
     "453.0ec81efe.chunk.js.map": "/Reactjs-Navbar/build/static/js/453.0ec81efe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0df6039.css",
-    "static/js/main.77ddd6a7.js"
+    "static/js/main.2377af7e.js"
   ]
 }
