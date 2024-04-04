@@ -1,5 +1,8 @@
 "NavBar in Reactjs with Tailwind css."
 
+"When you open the project for the first time"
+| RUN "npm install"
+
 "Packages to be installed"
 | "react-router-dom"
 
