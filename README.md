@@ -7,7 +7,7 @@ NavBar in Reactjs with Tailwind css.
 
 - RUN ``` npm install ```
 
-Packages to be installed:
+Package to be installed:
 - ``` react-router-dom ```
 
 Packages to be imported:
